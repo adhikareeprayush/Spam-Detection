@@ -4,12 +4,12 @@
 This project implements a spam detection system using machine learning techniques, specifically the Naive Bayes classifier. It analyzes text messages and classifies them as "spam" or "ham" (non-spam). The dataset used is a CSV file containing labeled messages.
 
 ## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Logic and Mathematics](#logic-and-mathematics)
-- [Import Statements](#import-statements)
-- [Contributions](#contributions)
-- [License](#license)
+- [Installation](#installation-)
+- [Usage](#usage-)
+- [Logic and Mathematics](#logic-and-mathematics-)
+- [Import Statements](#import-statements-)
+- [Contributions](#contributions-)
+- [License](#license-)
 
 ## Installation 🛠️
 To set up the project, ensure you have Python installed, then install the required libraries using:
